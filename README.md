@@ -36,6 +36,3 @@ The following models are currently supported with more models in progress:
 + Casio	FX-702P*, FX-602P*
 
 _*Tested and Verified, others should work since they use the same interface_
-
-## Owners Manual
-[PCUI Owners Manual Rev 1.2 1.0.pdf](https://github.com/user-attachments/files/27608583/PCUI.Owners.Manual.Rev.1.2.1.0.pdf)
