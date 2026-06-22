@@ -15,6 +15,7 @@ This is the official repo for firmware updates for the PCUI, owners manuals, and
 + Plotter emulation mode to provide printouts of plots using modern printers allowing programs which leveraged plotter features to be used on modern printers.
 + ASCII BASIC conversion to tokenized BASIC “on the fly”, allowing for program edits and program creation on a Mac or PC and directly sending it to a pocket computer.
 + WiFi connectivity and web interface for program viewing, editing, UI control, and status.
++ True low-level cassette interface integration - byte level retrieval and storage of programs and data images, not just a simple "record" and "playback" mechanism.
 
 ## Supported Models
 
