@@ -28,8 +28,8 @@ The following models are currently supported with more models in progress:
   + PC-1250, PC-1250A, PC-1251, PC-1251H, PC-1255, Tandy PC-3* and PC-3 A/B*
 + Sharp	Newer 11-pin “CE-126P” Compatibles
   + PC-1401, PC-1403*, PC-1421, PC-1430, PC-1450, EL-5500, EL-5500 II, EL-5500III*
-+ Casio	12-pin PB-100 Series
-  + PB-100, PB-110, PB-120, PB-200, PB-400, FX-700P, FX-710P, Tandy PC-4*
++ Casio	12-pin PB-100 Series FP-12(S) Compatibles
+  + PB-100, PB-110, PB-120, PB-200, PB-400, PB-410*, FX-700P, FX-710P, Tandy PC-4 Version B*, TRS-80 PC-4 Version A*
 + Casio	12-pin FX “Clamshell” Series
   + FX-770P, FX-780P, FX-781P, FX-785P, FX-790P, FX-791P, FX-795P, Tandy PC-5*, Tandy PC-6*
 + Casio	15-pin “FA-10” Compatibles
