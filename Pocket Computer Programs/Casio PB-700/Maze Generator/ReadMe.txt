@@ -1,0 +1,5 @@
+I have added some parameters that should be set before using the program. The width and height should be set (highlighted below in line 20). Note that you cannot exceed the actual screen size here, and the number should be odd. Further, the larger the canvas size, the longer the maze will take to generate.
+
+Once the width and height are set, be sure to edit line 10 for the scale factor. In my video above, width and height were set to 9, and the scale factor was set to 4. The plotter maximum width in points is 100. For example, if the width and height were 25 and 25, the scale factor can be 4. If you increase the width and height to 50 by 50, the scale factor should be cut in half, for a value of 2.
+
+Another parameter which might need adjusting is the address in the CLEAR statement and the initial value of B, which is the “open cell” stack. I have all 3 OR-8 memory packs installed, and I allocated free space toward the end of the PB-770 memory map. If you have less memory than this, you will need to adjust this start address accordingly.
