@@ -23,6 +23,8 @@ The following models are currently supported with more models in progress:
 
 + Texas Instruments	Graph Link Graphing Calculators
   + TI-82*, TI-85*, TI-86*, TI-89*, TI-92*, TI-92 Plus*, Voyage 200*
++ Sharp 9-pin “CE-121” / “CE-122” Compatibles
+  + PC-1210, PC-1211, PC-1212, TRS-80 PC-1*
 + Sharp	Older 11-pin “CE-126P” Compatibles
   + PC-1245, PC-1246, PC-1246S, PC-1247, PC-1248, Tandy PC-8*
   + PC-1250, PC-1250A, PC-1251, PC-1251H, PC-1255, Tandy PC-3* and PC-3 A/B*
