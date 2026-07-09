@@ -6,7 +6,7 @@ This is the official repo for firmware updates for the PCUI, owners manuals, and
 ## Features Summary
 
 + Provides cassette interface emulation to read and write programs and data directly to and from a micro SD card.
-+ Provides a printer interface between the pocket computer or calculator and most standard “line printers” such as dot matrix, thermal receipt printers, serial and parallel.
++ Provides a printer interface between the pocket computer or calculator and most standard “line printers” such as dot matrix, thermal receipt printers, serial, parallel, and Wi-Fi.
 + Supports printing of custom glyphs, including math, scientific and engineering symbols unique to each model.
 + Works independently without a computer and can be powered by a single 18650 lithium ion rechargeable battery.
 + OLED screen with user-friendly menu system and operating modes
@@ -14,7 +14,7 @@ This is the official repo for firmware updates for the PCUI, owners manuals, and
 + Updatable firmware and PC or Mac connectivity via USB for mounting micro SD card
 + Plotter emulation mode to provide printouts of plots using modern printers allowing programs which leveraged plotter features to be used on modern printers.
 + ASCII BASIC conversion to tokenized BASIC “on the fly”, allowing for program edits and program creation on a Mac or PC and directly sending it to a pocket computer.
-+ WiFi connectivity and web interface for program viewing, editing, UI control, and status.
++ Wi-Fi connectivity and web interface for program viewing, editing, UI control, printing, and status.
 + True low-level cassette interface integration - byte level retrieval and storage of programs and data images, not just a simple "record" and "playback" mechanism.
 
 ## Supported Models
