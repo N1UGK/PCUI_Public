@@ -8,12 +8,19 @@ The PCUI will decrypt the firmware file, verify the signature, and if it passes,
 
 Note that the PCUI bootloader is different from the Pico bootloader - if you use the bootsel button on the pico to get into the bootloader and drag and drop the PCUI firmware, it will be rejected as the Pico's bootloader cannot decrypt the firmware image.  You can easily determine which bootloader you are in by looking at the directory contents of the USB drive which appears on your computer.  If you see PCUI.txt, then you are in the PCUI's bootloader.  If you see another *UF2.txt file, then you are in the Pico's bootloader.
 
+07-16-2026 - PCUI_V1.11_B1968.uf2
+
+Fixed tokenization and detokenization issues for Sharp PC-1245. 
+Fixed SD card folder for Sharp PC-1245 (was incorrectly using PC-1246).
+Added WIFI.TXT support (see owners manual for description).
+Fixed issue where SD card removal (while powered on) would cause reboot if config is the same (unchanged).
+SD card subfolders automatically created when mode is selected, rather than on-demand during save.
+When in an empty BASIC folder, the web interface did not show the Create New button.
 
 07-10-2026 - PCUI_V1.10_B1776.uf2
 
 Support added for the Sharp PC-1210/PC-1211/PC-1212 (tested only on the PC-1211 / TRS-80 PC-1).  
 Wi-Fi printer support using mDNS browser, HP LaserJet PCL modes only
-
 
 07-04-2026 - PCUI_V1.01_B1658.uf2
 
