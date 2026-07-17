@@ -8,6 +8,10 @@ The PCUI will decrypt the firmware file, verify the signature, and if it passes,
 
 Note that the PCUI bootloader is different from the Pico bootloader - if you use the bootsel button on the pico to get into the bootloader and drag and drop the PCUI firmware, it will be rejected as the Pico's bootloader cannot decrypt the firmware image.  You can easily determine which bootloader you are in by looking at the directory contents of the USB drive which appears on your computer.  If you see PCUI.txt, then you are in the PCUI's bootloader.  If you see another *UF2.txt file, then you are in the Pico's bootloader.
 
+07-17-2026 - PCUI_V1.12_B1975.uf2
+
+Fixed Sharp PC-1245 printer bug - an extra bit was introduced from an erroneous SEL2, BUSY pulse in some printing scenarios. 
+
 07-16-2026 - PCUI_V1.11_B1968.uf2
 
 Fixed tokenization and detokenization issues for Sharp PC-1245. 
