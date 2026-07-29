@@ -8,6 +8,18 @@ The PCUI will decrypt the firmware file, verify the signature, and if it passes,
 
 Note that the PCUI bootloader is different from the Pico bootloader - if you use the bootsel button on the pico to get into the bootloader and drag and drop the PCUI firmware, it will be rejected as the Pico's bootloader cannot decrypt the firmware image.  You can easily determine which bootloader you are in by looking at the directory contents of the USB drive which appears on your computer.  If you see PCUI.txt, then you are in the PCUI's bootloader.  If you see another *UF2.txt file, then you are in the Pico's bootloader.
 
+07-29-2025 - PCUI_V1.14_B2080.uf2
+
+Fixed issue with Casio models which used the FA-3 cassette interface, timing issue with tape loading was present on the release build, debug builds unaffected.
+Fixed issue with Sharp models, CE-126P compatibles, printing support in release mode, timing issue.
+Fixed Casio FX-702P, open detect and printing support, timing issue in release mode.
+Added RTS/CTS flow control support for RS-232 port.
+Added preliminary Sharp PC-1260 and PC-1280 support, which is a combination of existing 1401 support (for tape) and 1245 support (for the printer).
+Corrected last 4 pins displayed in self-set mode, buffer test.
+Fixed display of mode "None" and menu option for this model/mode.  None now appears in the menu, and PCUI will be displayed on the home screen.
+Updated frequency out generator in self-test mode for Pico2 (was set based on Pico1).
+Added OE and Direction toggling for level shifting pocket computer buffer in self-test mode.
+
 07-18-2026 - PCUI_V1.13_B1996.uf2
 
 Fixed SD card mount issue after bootloader session, SD card mount failed.

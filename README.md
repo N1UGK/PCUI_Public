@@ -28,6 +28,8 @@ The following models are currently supported with more models in progress:
 + Sharp	Older 11-pin “CE-126P” Compatibles
   + PC-1245, PC-1246, PC-1246S, PC-1247, PC-1248, Tandy PC-8*
   + PC-1250, PC-1250A, PC-1251, PC-1251H, PC-1255, Tandy PC-3* and PC-3 A/B*, PC-1270
++ 11-pin “CE-126P” Compatibles
+  + PC-1260, PC-1280
 + Sharp	Newer 11-pin “CE-126P” Compatibles
   + PC-1401, PC-1403*, PC-1421, PC-1430, PC-1450, EL-5500, EL-5500 II, EL-5500III*
 + Casio	12-pin PB-100 Series FP-12(S) Compatibles
