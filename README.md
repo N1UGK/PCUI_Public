@@ -1,7 +1,7 @@
 # PCUI (Pocket Computer Universal Interface)
 This is the official repo for firmware updates for the PCUI, owners manuals, and general information.  Further, this repo contains a collection of programs for various pocket computers and calculators supported by the PCUI.
 
-<img width="994" height="644" alt="Image2" src="https://n1ugk.com/wp-content/uploads/2025/12/image-3.png" />
+<img width="994" height="644" alt="Image2" src="https://n1ugk.com/wp-content/uploads/2025/12/PCUI-1024x544.png" />
 
 ## Features Summary
 
