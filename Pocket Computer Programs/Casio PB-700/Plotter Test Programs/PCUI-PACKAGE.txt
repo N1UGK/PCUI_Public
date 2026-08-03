@@ -1,0 +1,24 @@
+PCUI-PACKAGE/1
+id=plotter-test-programs
+model=casio-pb700
+title=Plotter Test Programs
+version=1.0.0
+author=N1UGK
+description=FA-10 plotter test suite adapted for PCUI plotter emulation.
+readme=ReadMe.txt
+file=BASIC_TXT|PLOTTST1.txt
+file=BASIC_TXT|PLOTTST2.txt
+file=BASIC_TXT|PLOTTST3.txt
+file=BASIC_TXT|PLOTTST4.txt
+file=BASIC_TXT|PLOTTST5.txt
+file=BASIC_TXT|PLOTTST6.txt
+file=BASIC_TXT|PLOTTST7.txt
+file=BASIC_TXT|PLOTTST8.txt
+file=BASIC_TXT|PLOTTST9.txt
+file=BASIC_TXT|PLOTTSTA.txt
+file=BASIC_TXT|PLOTTSTB.txt
+file=BASIC_TXT|PLOTTSTC.txt
+file=BASIC_TXT|PLOTTSTD.txt
+file=BASIC_TXT|PLOTTSTE.txt
+file=BASIC_TXT|PLOTTSTF.txt
+file=BASIC_TXT|PLOTTSTG.txt

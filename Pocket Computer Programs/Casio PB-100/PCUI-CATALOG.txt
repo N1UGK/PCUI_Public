@@ -1,0 +1,3 @@
+PCUI-CATALOG/1
+package|banner|Banner|1.0.0|N1UGK|Banner program with companion variable data for low-memory PB-100 and PC-4 systems.|Banner/PCUI-PACKAGE.txt
+package|plotter-test-programs|Plotter Test Programs|1.0.0|N1UGK|PB-100 plotter test program for PCUI plotter emulation.|Plotter Test Programs/PCUI-PACKAGE.txt

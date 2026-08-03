@@ -1,0 +1,2 @@
+PCUI-CATALOG/1
+package|banner|Banner|1.0.0|N1UGK|Banner program with companion variable data for PC-1211 and TRS-80 PC-1.|Banner/PCUI-PACKAGE.txt

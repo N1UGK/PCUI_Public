@@ -1,0 +1,2 @@
+PCUI-CATALOG/1
+package|banner|Banner|1.0.0|N1UGK|Banner program for PC-1245 with binary and text variants.|Banner/PCUI-PACKAGE.txt

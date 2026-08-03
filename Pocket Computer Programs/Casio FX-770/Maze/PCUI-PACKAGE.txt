@@ -1,0 +1,9 @@
+PCUI-PACKAGE/1
+id=maze
+model=casio-fx770
+title=Maze
+version=1.0.0
+author=N1UGK
+description=Maze program for FX-770.
+readme=ReadMe.txt
+file=BASIC_BIN|MAZE.bin

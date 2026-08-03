@@ -1,0 +1,10 @@
+PCUI-PACKAGE/1
+id=banner
+model=casio-fx702p
+title=Banner
+version=1.0.0
+author=N1UGK
+description=Banner program with companion variable data for FX-702P.
+readme=ReadMe.txt
+file=BASIC_BIN|BANNER.bin
+file=DATA_BIN|BANRVARS.bin

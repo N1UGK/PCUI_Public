@@ -1,0 +1,2 @@
+PCUI-CATALOG/1
+package|banner|Banner|1.0.0|N1UGK|Banner program with companion variable data for FX-702P.|Banner/PCUI-PACKAGE.txt

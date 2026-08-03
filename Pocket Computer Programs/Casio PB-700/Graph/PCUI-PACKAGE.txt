@@ -1,0 +1,10 @@
+PCUI-PACKAGE/1
+id=graph
+model=casio-pb700
+title=Graph
+version=1.0.0
+author=N1UGK
+description=Graphing program for entering, correcting, printing, and plotting data.
+readme=ReadMe.txt
+file=BASIC_BIN|GRAPH.bin
+file=BASIC_TXT|GRAPH.txt

@@ -1,0 +1,11 @@
+PCUI-PACKAGE/1
+id=banner
+model=sharp-pc1211
+title=Banner
+version=1.0.0
+author=N1UGK
+description=Banner program with companion variable data for PC-1211 and TRS-80 PC-1.
+readme=ReadMe.txt
+file=BASIC_BIN|BANNER.bin
+file=BASIC_TXT|BANNER.txt
+file=DATA_BIN|BANMEM.bin

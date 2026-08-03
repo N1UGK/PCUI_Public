@@ -1,0 +1,9 @@
+PCUI-PACKAGE/1
+id=match
+model=casio-fx770
+title=Match
+version=1.0.0
+author=N1UGK
+description=Match game for FX-770.
+readme=ReadMe.txt
+file=BASIC_BIN|MATCH.bin

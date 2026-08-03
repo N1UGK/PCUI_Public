@@ -1,0 +1,10 @@
+PCUI-PACKAGE/1
+id=maze-generator
+model=casio-pb700
+title=Maze Generator
+version=1.0.0
+author=N1UGK
+description=Maze generator program for PB-700 and PB-770.
+readme=ReadMe.txt
+file=BASIC_BIN|MAZEGEN.bin
+file=BASIC_TXT|MAZEGEN.txt

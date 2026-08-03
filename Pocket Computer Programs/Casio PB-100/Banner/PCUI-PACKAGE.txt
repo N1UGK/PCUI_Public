@@ -1,0 +1,10 @@
+PCUI-PACKAGE/1
+id=banner
+model=casio-pb100
+title=Banner
+version=1.0.0
+author=N1UGK
+description=Banner program with companion variable data for low-memory PB-100 and PC-4 systems.
+readme=ReadMe.txt
+file=BASIC_BIN|BANNER.bin
+file=DATA_BIN|BANMEM.bin

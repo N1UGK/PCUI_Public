@@ -1,0 +1,9 @@
+PCUI-PACKAGE/1
+id=maze-generator
+model=casio-fx750p
+title=Maze Generator
+version=1.0.0
+author=N1UGK
+description=Maze generator program for FX-750P.
+readme=ReadMe.txt
+file=BASIC_BIN|MAZEGEN.bin

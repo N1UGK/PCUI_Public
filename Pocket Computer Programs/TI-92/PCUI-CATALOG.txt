@@ -1,0 +1,3 @@
+PCUI-CATALOG/1
+package|banner|Banner|1.0.0|N1UGK|Banner program for TI-92.|Banner/PCUI-PACKAGE.txt
+package|maze|Maze|1.0.0|N1UGK|Maze program for TI-92.|Maze/PCUI-PACKAGE.txt

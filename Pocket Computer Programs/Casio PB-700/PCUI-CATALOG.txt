@@ -1,0 +1,5 @@
+PCUI-CATALOG/1
+package|globe|Globe|1.0.0|N1UGK|Globe plotting program converted for PB-700 and PB-770.|Globe/PCUI-PACKAGE.txt
+package|graph|Graph|1.0.0|N1UGK|Graphing program for entering, correcting, printing, and plotting data.|Graph/PCUI-PACKAGE.txt
+package|maze-generator|Maze Generator|1.0.0|N1UGK|Maze generator program for PB-700 and PB-770.|Maze Generator/PCUI-PACKAGE.txt
+package|plotter-test-programs|Plotter Test Programs|1.0.0|N1UGK|FA-10 plotter test suite adapted for PCUI plotter emulation.|Plotter Test Programs/PCUI-PACKAGE.txt

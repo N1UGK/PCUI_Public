@@ -1,0 +1,9 @@
+PCUI-PACKAGE/1
+id=banner
+model=ti-92
+title=Banner
+version=1.0.0
+author=N1UGK
+description=Banner program for TI-92.
+readme=ReadMe.txt
+file=BASIC_BIN|banner.bin

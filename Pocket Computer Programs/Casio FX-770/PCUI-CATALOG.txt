@@ -1,0 +1,4 @@
+PCUI-CATALOG/1
+package|banner|Banner|1.0.0|N1UGK|Banner program for FX-770.|Banner/PCUI-PACKAGE.txt
+package|match|Match|1.0.0|N1UGK|Match game for FX-770.|Match/PCUI-PACKAGE.txt
+package|maze|Maze|1.0.0|N1UGK|Maze program for FX-770.|Maze/PCUI-PACKAGE.txt

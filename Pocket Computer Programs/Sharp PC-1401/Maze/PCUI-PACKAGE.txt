@@ -1,0 +1,9 @@
+PCUI-PACKAGE/1
+id=maze
+model=sharp-pc1401
+title=Maze
+version=1.0.0
+author=N1UGK
+description=Maze BASIC text program for PC-1401.
+readme=ReadMe.txt
+file=BASIC_TXT|MAZE.TXT

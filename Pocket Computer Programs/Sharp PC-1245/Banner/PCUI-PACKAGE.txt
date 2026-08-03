@@ -1,0 +1,10 @@
+PCUI-PACKAGE/1
+id=banner
+model=sharp-pc1245
+title=Banner
+version=1.0.0
+author=N1UGK
+description=Banner program for PC-1245 with binary and text variants.
+readme=ReadMe.txt
+file=BASIC_BIN|BANNER.bin
+file=BASIC_TXT|banner.txt

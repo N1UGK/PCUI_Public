@@ -1,0 +1,2 @@
+PCUI-CATALOG/1
+package|maze-generator|Maze Generator|1.0.0|N1UGK|Maze generator program for FX-750P.|Maze Generator/PCUI-PACKAGE.txt
