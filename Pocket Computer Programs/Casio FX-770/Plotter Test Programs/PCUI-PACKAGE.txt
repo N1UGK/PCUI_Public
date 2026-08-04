@@ -1,10 +1,10 @@
 PCUI-PACKAGE/1
 id=plotter-test-programs
-model=casio-pb100
+model=casio-fx770
 title=Plotter Test Programs
 version=1.0.0
 author=N1UGK
-description=PB-100 plotter test programs for PCUI plotter emulation.
+description=FX-770 plotter test programs for PCUI plotter emulation.
 readme=ReadMe.txt
 file=BASIC_TXT|PLOTTSTC.txt
 file=BASIC_BIN|PLOTTSTC.bin

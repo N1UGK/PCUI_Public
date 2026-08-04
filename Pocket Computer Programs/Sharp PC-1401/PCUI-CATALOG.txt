@@ -1,3 +1,4 @@
 PCUI-CATALOG/1
 package|banner|Banner|1.0.0|N1UGK|Banner BASIC text program for PC-1401.|Banner/PCUI-PACKAGE.txt
 package|maze|Maze|1.0.0|N1UGK|Maze BASIC text program for PC-1401.|Maze/PCUI-PACKAGE.txt
+package|plotter-test-programs|Plotter Test Programs|1.0.0|N1UGK|PC-1401 plotter test program for PCUI plotter emulation.|Plotter Test Programs/PCUI-PACKAGE.txt

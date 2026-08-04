@@ -1,0 +1,10 @@
+PCUI-PACKAGE/1
+id=plotter-test-programs
+model=sharp-pc1245
+title=Plotter Test Programs
+version=1.0.0
+author=N1UGK
+description=PC-1245 plotter test programs for PCUI plotter emulation.
+readme=ReadMe.txt
+file=BASIC_TXT|PLTTSTC.txt
+file=BASIC_BIN|PLTTSTC.bin

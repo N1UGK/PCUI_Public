@@ -1,2 +1,3 @@
 PCUI-CATALOG/1
 package|banner|Banner|1.0.0|N1UGK|Banner program for PC-1245 with binary and text variants.|Banner/PCUI-PACKAGE.txt
+package|plotter-test-programs|Plotter Test Programs|1.0.0|N1UGK|PC-1245 plotter test program for PCUI plotter emulation.|Plotter Test Programs/PCUI-PACKAGE.txt
