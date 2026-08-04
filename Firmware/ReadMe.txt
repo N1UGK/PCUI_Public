@@ -8,7 +8,11 @@ The PCUI will decrypt the firmware file, verify the signature, and if it passes,
 
 Note that the PCUI bootloader is different from the Pico bootloader - if you use the bootsel button on the pico to get into the bootloader and drag and drop the PCUI firmware, it will be rejected as the Pico's bootloader cannot decrypt the firmware image.  You can easily determine which bootloader you are in by looking at the directory contents of the USB drive which appears on your computer.  If you see PCUI.txt, then you are in the PCUI's bootloader.  If you see another *UF2.txt file, then you are in the Pico's bootloader.
 
-08-04-2025 - PCUI_V1.15_B2364.uf2
+08-??-2026 - PCUI_V1.16_B????.uf2
+
+Added 4 color pen support for plotter emulation, PNG and GIF, web live view (PB-700/PB-770)
+
+08-04-2026 - PCUI_V1.15_B2364.uf2
 
 Added Hex Translation feature for printing from pocket computers with limited range of byte output.
 Fixed plotter emulation for Casio models, bytes were not converted to ASCII before being dispatched to the plotter emulator.
@@ -22,7 +26,7 @@ Added screen saver to prevent OLED burn in
 Fixed issue where PNG and AGIF plotter emulation output was not saved if no printer is selected or if a non-graphics capable printer was selected.
 Fixed PC-1245 tokenization issue with the "?" character and spacing causing keywords to fall through.
 
-07-29-2025 - PCUI_V1.14_B2080.uf2
+07-29-2026 - PCUI_V1.14_B2080.uf2
 
 Fixed issue with Casio models which used the FA-3 cassette interface, timing issue with tape loading was present on the release build, debug builds unaffected.
 Fixed issue with Sharp models, CE-126P compatibles, printing support in release mode, timing issue.
