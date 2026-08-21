@@ -3,6 +3,10 @@ This is the official repo for firmware updates for the PCUI, owners manuals, and
 
 <img alt="Image2" src="https://n1ugk.com/wp-content/uploads/2025/12/PCUI-1024x544.png" />
 
+## Development History
+
+https://n1ugk.com/2025/12/pocket-computer-universal-interface/
+
 ## Features Summary
 
 + Provides cassette interface emulation to read and write programs and data directly to and from a micro SD card.
