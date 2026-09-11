@@ -10,7 +10,10 @@ Note that the PCUI bootloader is different from the Pico bootloader - if you use
 
 08-??-2026 - PCUI_V1.16_B????.uf2
 
-Added 4 color pen support for plotter emulation, PNG and GIF, web live view (PB-700/PB-770)
+Added 4 color pen support for plotter emulation, PNG and GIF, web live view (PB-700/PB-770).
+Added Casio FP-100 plotter emulation.
+
+Backlog - Sharp Plotter Emulation
 
 08-04-2026 - PCUI_V1.15_B2364.uf2
 
