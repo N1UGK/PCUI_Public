@@ -490,7 +490,7 @@
       "plot": "../Fab Outputs/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "PC1 Connector.step",
       "svg": "",
       "vrml": ""
     },

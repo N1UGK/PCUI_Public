@@ -490,7 +490,7 @@
       "plot": "FAB Outputs/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "PB-700 Connector.step",
       "svg": "",
       "vrml": ""
     },
