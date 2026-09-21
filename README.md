@@ -46,3 +46,17 @@ The following models are currently supported with more models in progress:
 + Casio	FX-702P*, FX-602P*
 
 _*Tested and Verified, others should work since they use the same interface_
+
+The PCUI Owners manual can be found in the [Documentation](./Documentation/) folder.
+
+Firmware updates can be found in the [Firmware](./Firmware/) folder.
+
+## Purchasing a Kit or Fully Assembled PCUI
+
+A PCUI can be purchased as a kit or fully assembled.  
+
++ PCUI Kit - includes pre-flashed Pico 2 W, Main PCB and all components.  Interface pack kits are add-ons.  
+  + Assembly instructions are located in the [Documentation](./Documentation/) folder.
+  + The BOM, 3D model, KiCad Projects are located in the [Hardware](./Hardware/) folder.
++ PCUI Fully Assembled - includes a fully assembled PCUI and chosen interface pack add-ons.
++ A link to purchase either option will be added soon.
