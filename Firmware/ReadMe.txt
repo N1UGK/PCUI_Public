@@ -8,10 +8,12 @@ The PCUI will decrypt the firmware file, verify the signature, and if it passes,
 
 Note that the PCUI bootloader is different from the Pico bootloader - if you use the bootsel button on the pico to get into the bootloader and drag and drop the PCUI firmware, it will be rejected as the Pico's bootloader cannot decrypt the firmware image.  You can easily determine which bootloader you are in by looking at the directory contents of the USB drive which appears on your computer.  If you see PCUI.txt, then you are in the PCUI's bootloader.  If you see another *UF2.txt file, then you are in the Pico's bootloader.
 
-08-??-2026 - PCUI_V1.16_B????.uf2
+10-??-2026 - PCUI_V1.16_B????.uf2
 
 Added 4 color pen support for plotter emulation, PNG and GIF, web live view (PB-700/PB-770).
 Added Casio FP-100 plotter emulation.
+Fixed HP LaserJet printer path for TI graphing calculators, as well as the scaling setting.
+Added AP Setup mode for Wi-Fi - connect to the PCUI as an accesspoint and use your phone browser to enter SSID and PW
 
 Backlog - Sharp Plotter Emulation
 

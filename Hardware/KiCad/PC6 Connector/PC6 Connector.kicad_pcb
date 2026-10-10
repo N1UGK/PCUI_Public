@@ -2667,8 +2667,8 @@
 		)
 	)
 	(gr_rect
-		(start 121.25 90.5)
-		(end 123.75 91.5)
+		(start 121.6 98)
+		(end 124.1 99)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -2813,7 +2813,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "N1UGK REV 1.5"
+	(gr_text "N1UGK REV 1.6"
 		(at 118.65 104.55 0)
 		(layer "B.SilkS")
 		(uuid "3fe03ce3-d5e5-4911-805b-4a29299a4122")

@@ -3165,7 +3165,7 @@
 		(path "/5aae09b9-d334-449d-ae5e-82dfd97f386b")
 		(sheetname "/")
 		(sheetfile "PocketComputerUniversalInterface.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0.861 0)
@@ -7631,7 +7631,7 @@
 		(path "/dabdfe4f-3789-4789-a098-3ccce34d53b6")
 		(sheetname "/")
 		(sheetfile "PocketComputerUniversalInterface.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0.861 0)
@@ -8112,7 +8112,7 @@
 		(path "/f76250ba-759b-488b-921f-bb90200542d5")
 		(sheetname "/")
 		(sheetfile "PocketComputerUniversalInterface.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0.861 0)
@@ -9830,7 +9830,7 @@
 		(path "/620c3514-71d3-41b4-baf0-e5902c027d84")
 		(sheetname "/")
 		(sheetfile "PocketComputerUniversalInterface.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0.861 0)
@@ -13119,7 +13119,7 @@
 		(path "/c306bacf-dd4a-4652-a117-6f0cfa7d037c")
 		(sheetname "/")
 		(sheetfile "PocketComputerUniversalInterface.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0.861 0)
@@ -15626,7 +15626,7 @@
 		(path "/7cdb957d-6823-44cc-8d3d-d54dcf991010")
 		(sheetname "/")
 		(sheetfile "PocketComputerUniversalInterface.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0.861 0)
@@ -17421,7 +17421,7 @@
 		(path "/0559fc12-68a9-4f6b-9537-74adecfc6a34")
 		(sheetname "/")
 		(sheetfile "PocketComputerUniversalInterface.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0.861 0)
@@ -18332,7 +18332,7 @@
 		(path "/128eb5a7-5f83-4933-9782-8a7441de2628")
 		(sheetname "/")
 		(sheetfile "PocketComputerUniversalInterface.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0.861 0)
@@ -19725,7 +19725,7 @@
 		(path "/25857a66-7901-42a7-aefd-38ed471543f8")
 		(sheetname "/")
 		(sheetfile "PocketComputerUniversalInterface.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0.861 0)
@@ -22680,7 +22680,7 @@
 		(path "/b2e8fb49-0904-43e5-afdc-77a65229dcb5")
 		(sheetname "/")
 		(sheetfile "PocketComputerUniversalInterface.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0.861 0)
@@ -24742,7 +24742,7 @@
 		(path "/df0ebf29-41ac-4d20-934b-4eaf99be8c63")
 		(sheetname "/")
 		(sheetfile "PocketComputerUniversalInterface.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0.861 0)
@@ -25213,7 +25213,7 @@
 		(path "/9b01238e-28a9-483f-931c-1d92d2081813")
 		(sheetname "/")
 		(sheetfile "PocketComputerUniversalInterface.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0.861 0)
@@ -26760,7 +26760,7 @@
 		(path "/b4e0e754-5d5d-4a49-a63f-347b7b008c2d")
 		(sheetname "/")
 		(sheetfile "PocketComputerUniversalInterface.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0.861 0)
@@ -29420,7 +29420,7 @@
 		(path "/e7c74131-1c6a-404d-ad3d-7045d4e1d22d")
 		(sheetname "/")
 		(sheetfile "PocketComputerUniversalInterface.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0.861 0)
@@ -31277,7 +31277,7 @@
 		(path "/6ffb6700-eff1-4bbb-b0b9-506247c95a82")
 		(sheetname "/")
 		(sheetfile "PocketComputerUniversalInterface.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0.861 0)
@@ -31948,7 +31948,7 @@
 		(path "/cac53c66-284c-4321-84f7-90ba0a3200d2")
 		(sheetname "/")
 		(sheetfile "PocketComputerUniversalInterface.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0.861 0)
@@ -32620,7 +32620,7 @@
 		(path "/503d9b51-7ddc-4d55-bd6d-86292165193d")
 		(sheetname "/")
 		(sheetfile "PocketComputerUniversalInterface.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0.861 0)
@@ -34936,7 +34936,7 @@
 		(path "/b0f2b94d-4aab-464c-9008-1ed2f87a868c")
 		(sheetname "/")
 		(sheetfile "PocketComputerUniversalInterface.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0.861 0)
@@ -39797,7 +39797,7 @@
 		(path "/e515b996-b14b-4c19-9d52-f569b4a8221c")
 		(sheetname "/")
 		(sheetfile "PocketComputerUniversalInterface.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0.861 0)
@@ -40951,7 +40951,7 @@
 		(path "/c9d12cce-3470-44b2-8e9f-3d8ae92bd03a")
 		(sheetname "/")
 		(sheetfile "PocketComputerUniversalInterface.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0.861 0)
@@ -50381,7 +50381,7 @@
 		(path "/af5318f2-a71b-402c-864e-3e250632d7a2")
 		(sheetname "/")
 		(sheetfile "PocketComputerUniversalInterface.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0.861 0)
@@ -51074,7 +51074,7 @@
 		(path "/fd8372dc-6d0d-4752-84ae-3b790a884557")
 		(sheetname "/")
 		(sheetfile "PocketComputerUniversalInterface.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0.861 0)
