@@ -59,4 +59,4 @@ A PCUI can be purchased as a kit or fully assembled.
   + Assembly instructions are located in the [Documentation](./Documentation/) folder.
   + The BOM, 3D model, KiCad Projects are located in the [Hardware](./Hardware/) folder.
 + PCUI Fully Assembled - includes a fully assembled PCUI and chosen interface pack add-ons.
-+ A link to purchase either option will be added soon.
++ To purchase a PCUI, <a href="https://www.tindie.com/products/n1ugk/pocket-computer-universal-interface-pcui/">click here</a>.
