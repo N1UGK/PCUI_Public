@@ -23,6 +23,7 @@ Fixed timer issue with IC7 interfering with self-test mode, occured on only 1 bo
 Added "Maze" as a screen saver option, the default.
 Fixed screen saver race condition that caused it to start before the 5 minute timer with no activity.
 Fixed parallel port output for slow printers causing bus lag on the connected pocket computer.  Busy waits no longer delay that activity.
+Added Casio FP-40 support for graphics mode printing.
 
 Backlog - Sharp Plotter Emulation
 
