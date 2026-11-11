@@ -8,7 +8,7 @@ The PCUI will decrypt the firmware file, verify the signature, and if it passes,
 
 Note that the PCUI bootloader is different from the Pico bootloader - if you use the bootsel button on the pico to get into the bootloader and drag and drop the PCUI firmware, it will be rejected as the Pico's bootloader cannot decrypt the firmware image.  You can easily determine which bootloader you are in by looking at the directory contents of the USB drive which appears on your computer.  If you see PCUI.txt, then you are in the PCUI's bootloader.  If you see another *UF2.txt file, then you are in the Pico's bootloader.
 
-Test Build - PCUI_V1.16_B2396 - Use only if you don't mind bugs!  Otherwise, wait until the next official build number
+Test Build - PCUI_V1.16_B2406 - Use only if you don't mind bugs!  Otherwise, wait until the next official build number
 which indicates an official release.
 
 Fixed self-test mode, pin 1 issue toggling between good and fail.
@@ -24,6 +24,9 @@ Added "Maze" as a screen saver option, the default.
 Fixed screen saver race condition that caused it to start before the 5 minute timer with no activity.
 Fixed parallel port output for slow printers causing bus lag on the connected pocket computer.  Busy waits no longer delay that activity.
 Added Casio FP-40 support for graphics mode printing.
+Added "time" display as a screen saver option.
+Fixed a memory issue with TLS/HTTP fetches.
+Fixed OLED bootup/init process (pixels on lower right corner of screen).
 
 Backlog - Sharp Plotter Emulation
 
