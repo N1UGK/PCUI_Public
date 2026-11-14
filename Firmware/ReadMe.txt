@@ -27,6 +27,9 @@ Added Casio FP-40 support for graphics mode printing.
 Added "time" display as a screen saver option.
 Fixed a memory issue with TLS/HTTP fetches.
 Fixed OLED bootup/init process (pixels on lower right corner of screen).
+Added BOOTSEL option in settings for updating the bootloader.
+Added "Flashing App" notice in bootloader.
+Added I2C stress test in the self-test routine. 
 
 Backlog - Sharp Plotter Emulation
 
