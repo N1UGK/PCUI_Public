@@ -51,6 +51,14 @@ The PCUI Owners manual can be found in the [Documentation](./Documentation/) fol
 
 Firmware updates can be found in the [Firmware](./Firmware/) folder.
 
+## 3D Printed Case
+
+The PCUI has a case which can printed with a 3D printer.  The case STEP files are in the hardware folder.  The case includes all 3D models needed - both the top and bottom halves of the case, the 4 buttons, the two pocket computer connector covers, and the slide switch.
+
+In addition to the PCUI case, there will be several "docking station" style model files as well.  For example, there is a TRS-80 PC-4 / Casio PB-100 series dock available for printing.  The interface pack fits inside of the 3D printed dock, providing a stable platform for connecting the pocket computer to the PCUI.  Similar models will be created for other pocket computers and made available as well.
+
+<img width="1032" height="688" alt="image" src="https://github.com/user-attachments/assets/22707e4c-9303-4f2e-b1bb-99b9168f99e6" />
+
 ## Purchasing a Kit or Fully Assembled PCUI
 
 A PCUI can be purchased as a kit or fully assembled.  
