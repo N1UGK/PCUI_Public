@@ -60,6 +60,12 @@ In addition to the PCUI case, there will be several "docking station" style mode
 
 <img width="1032" height="688" alt="image" src="https://github.com/user-attachments/assets/22707e4c-9303-4f2e-b1bb-99b9168f99e6" />
 
+## 3D Printed "Docks"
+
+Several interface packs have optional "docks" available for providing a more stable connection and better usability.  These are 3D printed and also available here under the Hardware folder if you wish to print them yourself.
+
+<img width="703" height="527" alt="image" src="https://github.com/user-attachments/assets/ef46d3aa-3a10-4be4-a0a7-ad8b84157190" />
+
 ## Purchasing a Kit or Fully Assembled PCUI
 
 A PCUI can be purchased as a kit or fully assembled.  
