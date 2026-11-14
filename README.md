@@ -21,7 +21,8 @@ https://n1ugk.com/2025/12/pocket-computer-universal-interface/
 + Wi-Fi connectivity and web interface for program viewing, editing, UI control, printing, and status.
 + Online program library browsing and installing directly from GitHub allows you to view community released programs for various models of pocket computers directly from the PCUI.
 + True low-level cassette interface integration - byte level retrieval and storage of programs and data images, not just a simple "record" and "playback" mechanism.
-
++	3D printed case available with additional “docking station” 3D models for specific pocket computers.
+  
 ## Supported Models
 
 The following models are currently supported with more models in progress:
