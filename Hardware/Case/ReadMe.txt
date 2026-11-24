@@ -7,3 +7,5 @@ The screws inside the case should be M2.5 x 8mm.
 The screws for outside of the case should be M2.5 x 15mm.
 
 Light pipes can be purchased from Amazon for example, 3mm acrylic.  There is a model you can 3D print for cutting them to size with a Dremel tool for example.  One side is the shorter WiFi pipe length (only 1 is needed), while the other side is for the LED size, 8 are needed.
+
+Note Regarding ALL of the model specific "dock" models: the covers use the same M2.5 x 8mm self-tapping screws.  They use the same M2.5 x 15mm self-tapping screws to attach the back or side to the bottom base.
